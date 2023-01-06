@@ -1,2 +1,3 @@
-# demo-repo
-Repo for revising github
+# this is demo repo
+
+using this repository to revise concept of github
